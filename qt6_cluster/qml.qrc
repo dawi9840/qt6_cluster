@@ -1,0 +1,448 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MyriadPro-Regular.otf</file>
+        <file>TypeALayout.qml</file>
+        <file>TypeBLayout.qml</file>
+        <file>TypeCLayout.qml</file>
+        <file>TypeDLayout.qml</file>
+        <file>TypeELayout.qml</file>
+        <file>RightMusic.qml</file>
+        <file>RightStatus.qml</file>
+        <file>assets/blur_music1.png</file>
+        <file>assets/blur_power1.png</file>
+        <file>assets/blur_speed1.png</file>
+        <file>assets/blur_status1.png</file>
+        <file>assets/blur_stop1.png</file>
+        <file>assets/blur_stop_door1.png</file>
+        <file>assets/blur_tire_11.png</file>
+        <file>assets/blur_tire_21.png</file>
+        <file>assets/blur_tire_31.png</file>
+        <file>assets/blur_tire_41.png</file>
+        <file>assets/icon_battery_regular_merged_child1.png</file>
+        <file>assets/icon_navi_right_merged_child1.png</file>
+        <file>assets/icon_toast_tired_merged_child1.png</file>
+        <file>assets/switch_11.png</file>
+        <file>assets/switch_21.png</file>
+        <file>assets/switch_31.png</file>
+        <file>assets/switch_41.png</file>
+        <file>RightMap.qml</file>
+        <file>MiddleCar.qml</file>
+        <file>MiddleNavigation.qml</file>
+        <file>TextTime.qml</file>
+        <file>TextBattery.qml</file>
+        <file>BatteryRegular.qml</file>
+        <file>assets/fsd3dmodel.png</file>
+        <file>assets/fsd3dmodel_1920x1080.png</file>
+        <file>MiddleADAS.qml</file>
+        <file>assets/pointBlur.png</file>
+        <file>assets/typeC_A.png</file>
+        <file>assets/typeC_B.png</file>
+        <file>assets/typeC_C.png</file>
+        <file>assets/typeC_A_1920x1080.png</file>
+        <file>assets/typeC_B_1920x1080.png</file>
+        <file>assets/typeC_C_1920x1080.png</file>
+        <file>assets/icon_straight.png</file>
+        <file>assets/icon_turn_left.png</file>
+        <file>assets/icon_turn_right.png</file>
+        <file>ControlBarButton.qml</file>
+        <file>ColorPartical.qml</file>
+        <file>DemoSwitch.qml</file>
+        <file>assets/background_comfort.png</file>
+        <file>assets/background_normal.png</file>
+        <file>assets/bg_normal_1920x1080.png</file>
+        <file>assets/bg_comfort_1920x1080.png</file>
+        <file>assets/img_comfort_map.png</file>
+        <file>assets/car_main.png</file>
+        <file>assets/car_main_back_up.png</file>
+        <file>assets/car_main_brake.png</file>
+        <file>assets/chargeMode.png</file>
+        <file>assets/ChargeAnimation.png</file>
+        <file>NewSpeedMeter.qml</file>
+        <file>assets/speed_bar.png</file>
+        <file>assets/speed_bar_mask.png</file>
+        <file>assets/speed_decorate.png</file>
+        <file>assets/speed_decorate_mask.png</file>
+        <file>assets/speed_line.png</file>
+        <file>assets/speed_line_mask.png</file>
+        <file>SectorCanvas.qml</file>
+        <file>assets/speed_scale.png</file>
+        <file>assets/speed_mask_value.png</file>
+        <file>ValueMask.qml</file>
+        <file>assets/speed_light_value.png</file>
+        <file>assets/speed_light_line.png</file>
+        <file>assets/speed_mask_line.png</file>
+        <file>assets/speed_mask_light_bottom.png</file>
+        <file>assets/speed_light_front.png</file>
+        <file>TablePointer.qml</file>
+        <file>assets/speed_mask_light_front.png</file>
+        <file>signalimg/Category=ADAS, Signal=ACC 1.png</file>
+        <file>signalimg/Category=ADAS, Signal=ACC 2.png</file>
+        <file>signalimg/Category=ADAS, Signal=ACC 3.png</file>
+        <file>signalimg/Category=ADAS, Signal=Cruise.png</file>
+        <file>signalimg/Category=ADAS, Signal=ESC-Alarm.png</file>
+        <file>signalimg/Category=ADAS, Signal=ESC-Off.png</file>
+        <file>signalimg/Category=ADAS, Signal=Hands On-Alarm.png</file>
+        <file>signalimg/Category=ADAS, Signal=Hands On-Error.png</file>
+        <file>signalimg/Category=ADAS, Signal=LDW.png</file>
+        <file>signalimg/Category=Battery, Signal=12V Battery-Alarm.png</file>
+        <file>signalimg/Category=Battery, Signal=12V Battery-Error.png</file>
+        <file>signalimg/Category=Battery, Signal=Charging System.png</file>
+        <file>signalimg/Category=Battery, Signal=EVB-Error.png</file>
+        <file>signalimg/Category=Battery, Signal=EVB-Temp.png</file>
+        <file>signalimg/Category=Battery, Signal=EVB.png</file>
+        <file>signalimg/Category=Battery, Signal=EVO.png</file>
+        <file>signalimg/Category=Brake, Signal=ABS.png</file>
+        <file>signalimg/Category=Brake, Signal=Auto Hold.png</file>
+        <file>signalimg/Category=Brake, Signal=Brake-Alarm.png</file>
+        <file>signalimg/Category=Brake, Signal=Brake-Error.png</file>
+        <file>signalimg/Category=Brake, Signal=Park-Alarm.png</file>
+        <file>signalimg/Category=Brake, Signal=Park.png</file>
+        <file>signalimg/Category=Lamp, Signal=AFS-Alarm.png</file>
+        <file>signalimg/Category=Lamp, Signal=Fog Light-Front.png</file>
+        <file>signalimg/Category=Lamp, Signal=Fog Light-Rear.png</file>
+        <file>signalimg/Category=Lamp, Signal=High Beam-Auto.png</file>
+        <file>signalimg/Category=Lamp, Signal=High Beam-Off.png</file>
+        <file>signalimg/Category=Lamp, Signal=High Beam.png</file>
+        <file>signalimg/Category=Lamp, Signal=LED-Alarm.png</file>
+        <file>signalimg/Category=Lamp, Signal=Low Beam.png</file>
+        <file>signalimg/Category=Lamp, Signal=Parking Light.png</file>
+        <file>signalimg/Category=System, Signal=Air Suspension-Alarm.png</file>
+        <file>signalimg/Category=System, Signal=Air Suspension-Error.png</file>
+        <file>signalimg/Category=System, Signal=Airbag-Error.png</file>
+        <file>signalimg/Category=System, Signal=Airbag-Off.png</file>
+        <file>signalimg/Category=System, Signal=Battery.png</file>
+        <file>signalimg/Category=System, Signal=Battey-Charging.png</file>
+        <file>signalimg/Category=System, Signal=Doors.png</file>
+        <file>signalimg/Category=System, Signal=EVS-Alarm.png</file>
+        <file>signalimg/Category=System, Signal=EVS-Error.png</file>
+        <file>signalimg/Category=System, Signal=Seat Belt.png</file>
+        <file>signalimg/Category=System, Signal=Steering Wheel-Alarm.png</file>
+        <file>signalimg/Category=System, Signal=Steering Wheel-Error.png</file>
+        <file>signalimg/Category=System, Signal=TPMS.png</file>
+        <file>signalimg/Category=System, Signal=Turn Signal-Left.png</file>
+        <file>signalimg/Category=System, Signal=Turn Signal-Right.png</file>
+        <file>signalimg/Category=System, Signal=Wiper-Alarm.png</file>
+        <file>signalimg/Category=System, Signal=Wiper-Fluid.png</file>
+        <file>SignalImage.qml</file>
+        <file>SignalPage.qml</file>
+        <file>NewEpower.qml</file>
+        <file>assets/power_background_normal.png</file>
+        <file>assets/power_mask_bar.png</file>
+        <file>assets/power_mask_decorate.png</file>
+        <file>assets/power_mask_line.png</file>
+        <file>assets/power_mask_value.png</file>
+        <file>assets/power_pattern_charge_normal.png</file>
+        <file>assets/power_pattern_normal.png</file>
+        <file>assets/power_scale.png</file>
+        <file>assets/power_light_front.png</file>
+        <file>assets/power_mask_light_front.png</file>
+        <file>assets/power_mask_light_front_charge.png</file>
+        <file>assets/power_mask_light_bottom.png</file>
+        <file>assets/pattern_b_normal.png</file>
+        <file>assets/point_charge_normal.png</file>
+        <file>assets/point_power_normal.png</file>
+        <file>assets/light_left_charge_normal.png</file>
+        <file>assets/light_left_power_normal.png</file>
+        <file>assets/light_right_charge_normal.png</file>
+        <file>assets/light_right_power_normal.png</file>
+        <file>assets/mask_light_left_right.png</file>
+        <file>assets/light_up_down_charge_normal.png</file>
+        <file>assets/light_up_down_power_normal.png</file>
+        <file>assets/mask_light_up_down.png</file>
+        <file>assets/light_value.png</file>
+        <file>assets/mask_value.png</file>
+        <file>assets/adas_aeb.png</file>
+        <file>assets/adas_fcw.png</file>
+        <file>assets/toast_aeb.png</file>
+        <file>assets/toast_tired_normal.png</file>
+        <file>assets/adas_bsd_left.png</file>
+        <file>assets/adas_bsd_right.png</file>
+        <file>assets/adas_rcta_left.png</file>
+        <file>assets/adas_rcta_mid.png</file>
+        <file>assets/adas_rcta_right.png</file>
+        <file>assets/car_front_comfort.png</file>
+        <file>assets/car_front_normal.png</file>
+        <file>assets/car_front_sport.png</file>
+        <file>assets/car_left_comfort.png</file>
+        <file>assets/car_left_normal.png</file>
+        <file>assets/car_left_sport.png</file>
+        <file>assets/car_right_comfort.png</file>
+        <file>assets/car_right_normal.png</file>
+        <file>assets/car_right_sport.png</file>
+        <file>assets/img_tpms_car.png</file>
+        <file>assets/pattern_a_comfort.png</file>
+        <file>assets/pattern_a_normal.png</file>
+        <file>assets/pattern_a_normal_bg_ADAS_1800x780.png</file>
+        <file>assets/pattern_a_sport.png</file>
+        <file>assets/power_background_comfort.png</file>
+        <file>assets/power_background_sport.png</file>
+        <file>assets/background_sport.png</file>
+        <file>assets/bg_sport_1920x1080.png</file>
+        <file>signalimg/gear_d.png</file>
+        <file>signalimg/gear_n.png</file>
+        <file>signalimg/gear_p.png</file>
+        <file>signalimg/gear_park.png</file>
+        <file>signalimg/gear_r.png</file>
+        <file>assets/power_pattern_charge_comfort.png</file>
+        <file>assets/power_pattern_charge_sport.png</file>
+        <file>assets/power_pattern_comfort.png</file>
+        <file>assets/power_pattern_sport.png</file>
+        <file>assets/pattern_charge_normal.png</file>
+        <file>assets/pattern_power_normal.png</file>
+        <file>assets/speed_background_comfort.png</file>
+        <file>assets/speed_background_normal.png</file>
+        <file>assets/speed_background_sport.png</file>
+        <file>assets/pattern_b_comfort.png</file>
+        <file>assets/pattern_b_sport.png</file>
+        <file>assets/light_left_charge_comfort.png</file>
+        <file>assets/light_left_charge_sport.png</file>
+        <file>assets/light_left_power_comfort.png</file>
+        <file>assets/light_left_power_sport.png</file>
+        <file>assets/light_right_charge_comfort.png</file>
+        <file>assets/light_right_charge_sport.png</file>
+        <file>assets/light_right_power_comfort.png</file>
+        <file>assets/light_right_power_sport.png</file>
+        <file>assets/light_up_down_power_comfort.png</file>
+        <file>assets/light_up_down_power_sport.png</file>
+        <file>assets/pattern_charge_comfort.png</file>
+        <file>assets/pattern_charge_sport.png</file>
+        <file>assets/pattern_power_comfort.png</file>
+        <file>assets/pattern_power_sport.png</file>
+        <file>assets/light_up_down_charge_comfort.png</file>
+        <file>assets/light_up_down_charge_sport.png</file>
+        <file>assets/point_charge_comfort.png</file>
+        <file>assets/point_charge_sport.png</file>
+        <file>assets/point_power_comfort.png</file>
+        <file>assets/point_power_sport.png</file>
+        <file>assets/toast_tired_comfort.png</file>
+        <file>assets/toast_tired_sport.png</file>
+        <file>assets/img_music_default.png</file>
+        <file>assets/icon_volume_mute.png</file>
+        <file>VolumeProgressBar.qml</file>
+        <file>assets/icon_volume_1.png</file>
+        <file>assets/icon_volume_2.png</file>
+        <file>assets/icon_volume_3.png</file>
+        <file>RightTripinfo.qml</file>
+        <file>assets/did_functionbg_comfort.png</file>
+        <file>assets/did_functionbg_normal.png</file>
+        <file>RadioList.qml</file>
+        <file>assets/radio_cover_b_comfort_240.png</file>
+        <file>assets/radio_cover_b_normal_240.png</file>
+        <file>assets/radio_cover_b_shadow_280.png</file>
+        <file>assets/radio_cover_b_sports_240.png</file>
+        <file>ChargePage.qml</file>
+        <file>assets/iconEstimated.png</file>
+        <file>assets/iconPaid.png</file>
+        <file>assets/iconRemaining.png</file>
+        <file>assets/icon_battery_charge.png</file>
+        <file>assets/icon_charge_unstabled.png</file>
+        <file>assets/iconError.png</file>
+        <file>assets/toast_empty_comfort.png</file>
+        <file>assets/toast_empty_normal.png</file>
+        <file>assets/toast_empty_sport.png</file>
+        <file>assets/speed_pattern_comfort.png</file>
+        <file>assets/speed_pattern_normal.png</file>
+        <file>assets/speed_pattern_sport.png</file>
+        <file>car_in_view/car_in_view_0.png</file>
+        <file>car_in_view/car_in_view_1.png</file>
+        <file>car_in_view/car_in_view_10.png</file>
+        <file>car_in_view/car_in_view_11.png</file>
+        <file>car_in_view/car_in_view_12.png</file>
+        <file>car_in_view/car_in_view_13.png</file>
+        <file>car_in_view/car_in_view_14.png</file>
+        <file>car_in_view/car_in_view_15.png</file>
+        <file>car_in_view/car_in_view_16.png</file>
+        <file>car_in_view/car_in_view_17.png</file>
+        <file>car_in_view/car_in_view_18.png</file>
+        <file>car_in_view/car_in_view_19.png</file>
+        <file>car_in_view/car_in_view_2.png</file>
+        <file>car_in_view/car_in_view_20.png</file>
+        <file>car_in_view/car_in_view_21.png</file>
+        <file>car_in_view/car_in_view_3.png</file>
+        <file>car_in_view/car_in_view_4.png</file>
+        <file>car_in_view/car_in_view_5.png</file>
+        <file>car_in_view/car_in_view_6.png</file>
+        <file>car_in_view/car_in_view_7.png</file>
+        <file>car_in_view/car_in_view_8.png</file>
+        <file>car_in_view/car_in_view_9.png</file>
+        <file>car_out/car_out_0.png</file>
+        <file>car_out/car_out_1.png</file>
+        <file>car_out/car_out_10.png</file>
+        <file>car_out/car_out_11.png</file>
+        <file>car_out/car_out_12.png</file>
+        <file>car_out/car_out_13.png</file>
+        <file>car_out/car_out_14.png</file>
+        <file>car_out/car_out_15.png</file>
+        <file>car_out/car_out_2.png</file>
+        <file>car_out/car_out_3.png</file>
+        <file>car_out/car_out_4.png</file>
+        <file>car_out/car_out_5.png</file>
+        <file>car_out/car_out_6.png</file>
+        <file>car_out/car_out_7.png</file>
+        <file>car_out/car_out_8.png</file>
+        <file>car_out/car_out_9.png</file>
+        <file>car_top_view/car_top_view_0.png</file>
+        <file>car_top_view/car_top_view_1.png</file>
+        <file>car_top_view/car_top_view_10.png</file>
+        <file>car_top_view/car_top_view_11.png</file>
+        <file>car_top_view/car_top_view_12.png</file>
+        <file>car_top_view/car_top_view_13.png</file>
+        <file>car_top_view/car_top_view_14.png</file>
+        <file>car_top_view/car_top_view_15.png</file>
+        <file>car_top_view/car_top_view_16.png</file>
+        <file>car_top_view/car_top_view_17.png</file>
+        <file>car_top_view/car_top_view_2.png</file>
+        <file>car_top_view/car_top_view_3.png</file>
+        <file>car_top_view/car_top_view_4.png</file>
+        <file>car_top_view/car_top_view_5.png</file>
+        <file>car_top_view/car_top_view_6.png</file>
+        <file>car_top_view/car_top_view_7.png</file>
+        <file>car_top_view/car_top_view_8.png</file>
+        <file>car_top_view/car_top_view_9.png</file>
+        <file>CarAnimation.qml</file>
+        <file>open_close/engine/engine_0.png</file>
+        <file>open_close/engine/engine_1.png</file>
+        <file>open_close/engine/engine_10.png</file>
+        <file>open_close/engine/engine_11.png</file>
+        <file>open_close/engine/engine_12.png</file>
+        <file>open_close/engine/engine_13.png</file>
+        <file>open_close/engine/engine_14.png</file>
+        <file>open_close/engine/engine_15.png</file>
+        <file>open_close/engine/engine_16.png</file>
+        <file>open_close/engine/engine_17.png</file>
+        <file>open_close/engine/engine_18.png</file>
+        <file>open_close/engine/engine_19.png</file>
+        <file>open_close/engine/engine_2.png</file>
+        <file>open_close/engine/engine_20.png</file>
+        <file>open_close/engine/engine_3.png</file>
+        <file>open_close/engine/engine_4.png</file>
+        <file>open_close/engine/engine_5.png</file>
+        <file>open_close/engine/engine_6.png</file>
+        <file>open_close/engine/engine_7.png</file>
+        <file>open_close/engine/engine_8.png</file>
+        <file>open_close/engine/engine_9.png</file>
+        <file>open_close/lb_door/lb_door_0.png</file>
+        <file>open_close/lb_door/lb_door_1.png</file>
+        <file>open_close/lb_door/lb_door_10.png</file>
+        <file>open_close/lb_door/lb_door_11.png</file>
+        <file>open_close/lb_door/lb_door_12.png</file>
+        <file>open_close/lb_door/lb_door_13.png</file>
+        <file>open_close/lb_door/lb_door_14.png</file>
+        <file>open_close/lb_door/lb_door_15.png</file>
+        <file>open_close/lb_door/lb_door_16.png</file>
+        <file>open_close/lb_door/lb_door_17.png</file>
+        <file>open_close/lb_door/lb_door_18.png</file>
+        <file>open_close/lb_door/lb_door_19.png</file>
+        <file>open_close/lb_door/lb_door_2.png</file>
+        <file>open_close/lb_door/lb_door_20.png</file>
+        <file>open_close/lb_door/lb_door_3.png</file>
+        <file>open_close/lb_door/lb_door_4.png</file>
+        <file>open_close/lb_door/lb_door_5.png</file>
+        <file>open_close/lb_door/lb_door_6.png</file>
+        <file>open_close/lb_door/lb_door_7.png</file>
+        <file>open_close/lb_door/lb_door_8.png</file>
+        <file>open_close/lb_door/lb_door_9.png</file>
+        <file>open_close/lf_door/lf_door_0.png</file>
+        <file>open_close/lf_door/lf_door_1.png</file>
+        <file>open_close/lf_door/lf_door_10.png</file>
+        <file>open_close/lf_door/lf_door_11.png</file>
+        <file>open_close/lf_door/lf_door_12.png</file>
+        <file>open_close/lf_door/lf_door_13.png</file>
+        <file>open_close/lf_door/lf_door_14.png</file>
+        <file>open_close/lf_door/lf_door_15.png</file>
+        <file>open_close/lf_door/lf_door_16.png</file>
+        <file>open_close/lf_door/lf_door_17.png</file>
+        <file>open_close/lf_door/lf_door_18.png</file>
+        <file>open_close/lf_door/lf_door_19.png</file>
+        <file>open_close/lf_door/lf_door_2.png</file>
+        <file>open_close/lf_door/lf_door_20.png</file>
+        <file>open_close/lf_door/lf_door_3.png</file>
+        <file>open_close/lf_door/lf_door_4.png</file>
+        <file>open_close/lf_door/lf_door_5.png</file>
+        <file>open_close/lf_door/lf_door_6.png</file>
+        <file>open_close/lf_door/lf_door_7.png</file>
+        <file>open_close/lf_door/lf_door_8.png</file>
+        <file>open_close/lf_door/lf_door_9.png</file>
+        <file>open_close/rb_door/rb_door_0.png</file>
+        <file>open_close/rb_door/rb_door_1.png</file>
+        <file>open_close/rb_door/rb_door_10.png</file>
+        <file>open_close/rb_door/rb_door_11.png</file>
+        <file>open_close/rb_door/rb_door_12.png</file>
+        <file>open_close/rb_door/rb_door_13.png</file>
+        <file>open_close/rb_door/rb_door_14.png</file>
+        <file>open_close/rb_door/rb_door_15.png</file>
+        <file>open_close/rb_door/rb_door_16.png</file>
+        <file>open_close/rb_door/rb_door_17.png</file>
+        <file>open_close/rb_door/rb_door_18.png</file>
+        <file>open_close/rb_door/rb_door_19.png</file>
+        <file>open_close/rb_door/rb_door_2.png</file>
+        <file>open_close/rb_door/rb_door_20.png</file>
+        <file>open_close/rb_door/rb_door_3.png</file>
+        <file>open_close/rb_door/rb_door_4.png</file>
+        <file>open_close/rb_door/rb_door_5.png</file>
+        <file>open_close/rb_door/rb_door_6.png</file>
+        <file>open_close/rb_door/rb_door_7.png</file>
+        <file>open_close/rb_door/rb_door_8.png</file>
+        <file>open_close/rb_door/rb_door_9.png</file>
+        <file>open_close/rf_door/rf_door_0.png</file>
+        <file>open_close/rf_door/rf_door_1.png</file>
+        <file>open_close/rf_door/rf_door_10.png</file>
+        <file>open_close/rf_door/rf_door_11.png</file>
+        <file>open_close/rf_door/rf_door_12.png</file>
+        <file>open_close/rf_door/rf_door_13.png</file>
+        <file>open_close/rf_door/rf_door_14.png</file>
+        <file>open_close/rf_door/rf_door_15.png</file>
+        <file>open_close/rf_door/rf_door_16.png</file>
+        <file>open_close/rf_door/rf_door_17.png</file>
+        <file>open_close/rf_door/rf_door_18.png</file>
+        <file>open_close/rf_door/rf_door_19.png</file>
+        <file>open_close/rf_door/rf_door_2.png</file>
+        <file>open_close/rf_door/rf_door_20.png</file>
+        <file>open_close/rf_door/rf_door_3.png</file>
+        <file>open_close/rf_door/rf_door_4.png</file>
+        <file>open_close/rf_door/rf_door_5.png</file>
+        <file>open_close/rf_door/rf_door_6.png</file>
+        <file>open_close/rf_door/rf_door_7.png</file>
+        <file>open_close/rf_door/rf_door_8.png</file>
+        <file>open_close/rf_door/rf_door_9.png</file>
+        <file>open_close/trunk/trunk_0.png</file>
+        <file>open_close/trunk/trunk_1.png</file>
+        <file>open_close/trunk/trunk_10.png</file>
+        <file>open_close/trunk/trunk_11.png</file>
+        <file>open_close/trunk/trunk_12.png</file>
+        <file>open_close/trunk/trunk_13.png</file>
+        <file>open_close/trunk/trunk_14.png</file>
+        <file>open_close/trunk/trunk_15.png</file>
+        <file>open_close/trunk/trunk_16.png</file>
+        <file>open_close/trunk/trunk_17.png</file>
+        <file>open_close/trunk/trunk_18.png</file>
+        <file>open_close/trunk/trunk_19.png</file>
+        <file>open_close/trunk/trunk_2.png</file>
+        <file>open_close/trunk/trunk_20.png</file>
+        <file>open_close/trunk/trunk_3.png</file>
+        <file>open_close/trunk/trunk_4.png</file>
+        <file>open_close/trunk/trunk_5.png</file>
+        <file>open_close/trunk/trunk_6.png</file>
+        <file>open_close/trunk/trunk_7.png</file>
+        <file>open_close/trunk/trunk_8.png</file>
+        <file>open_close/trunk/trunk_9.png</file>
+        <file>open_close/body.png</file>
+        <file>MiddleNewADAS.qml</file>
+        <file>MainScreen.qml</file>
+        <file>assets/did_functionbg_sport.png</file>
+        <file>assets/ablum.png</file>
+        <file>signalimg/signal_e_motor_error.png</file>
+        <file>signalimg/signal_thermal_alarm.png</file>
+        <file>signalimg/signal_thermal_error.png</file>
+        <file>test2.qml</file>
+        <file>assets/testmap.png</file>
+        <file>Canvas01.qml</file>
+        <file>assets/toast_time_for_a_break_sport.png</file>
+        <file>assets/toast_time_for_a_break_normal.png</file>
+        <file>assets/toast_time_for_a_break_comfort.png</file>
+        <file>assets/toast_focus_on_driving_sport.png</file>
+        <file>assets/toast_focus_on_driving_normal.png</file>
+        <file>assets/toast_focus_on_driving_comfort.png</file>
+    </qresource>
+</RCC>
