@@ -1,5 +1,5 @@
 # qt6_cluster
-Update Qt5 language to Qt6 version with Cluster. The Qt Creator compile is fit for Qt 6 version.   
+This project is fitting for Qt6 version with Cluster (update from [qt5_cluster](https://github.com/dawi9840/qt5_cluster.git)).         
 
 About the android/libs/car_framework.jar file:      
 The car_framework.jar file size is large than 25 MB. So I put it in the cloud drive. **Please download from [cloud drive](https://drive.google.com/file/d/1uLDje9tRJMZqveUOVi5OUoK3VJaT2BBc/view)**, and put it under this project path(qt6_cluster/qt6_cluster/android/libs/).     
